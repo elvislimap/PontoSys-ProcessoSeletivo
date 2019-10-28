@@ -1,15 +1,12 @@
 Uma determinada instituição financeira precisa de um sistema para realizar suas principais atividades, como depositar, visualizar saldo e sacar valor da conta. Essa instituição trabalha com uma tabela de juros própria e deve-se calcular de acordo com ela:
 
 
-| Balance                     | % Limit | Fixed money |
-|-----------------------------|---------|-------------|
-| Up until $500.00            | 50%     | $0.00       |
-| From $500.01 to $1000.00    | 40%     | $50.00      |
-| From $1000.01 to $5000.00   | 30%     | $150.00     |
-| From $5000.01 to $10000.00  | 20%     | $650.00     |
-| From $10000.01 to $15000.00 | 15%     | $1150.00    |
-| From $15000.01 to $20000.00 | 10%     | $1900.00    |
-| From $20000.01              | 5%      | $2900.00    |
+| SALDO                                | % Juros mensal |
+|--------------------------------------|----------------|
+| de       R$     0,00 até R$12.000,00 |         0,8%   |
+| de       R$12.000,01 até R$21.000,00 |         0,65%  |
+| de       R$21.000,01 até R$36.750,00 |         0,5%   |
+| acima de R$36.750,01                 |         0,389% |
 
 
 - Desenvolver uma WEB API para realizar as atividades da instituição financeira (Obrigatório)
