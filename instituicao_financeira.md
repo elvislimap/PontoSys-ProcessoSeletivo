@@ -1,4 +1,4 @@
-#Processo seletivo
+# Processo seletivo
 
 Uma determinada instituição financeira precisa de um sistema para realizar suas principais atividades, como depositar, visualizar saldo e sacar valor da conta. Essa instituição trabalha com uma tabela de juros própria e deve-se calcular de acordo com ela:
 
