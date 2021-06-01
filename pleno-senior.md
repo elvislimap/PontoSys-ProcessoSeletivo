@@ -1,4 +1,4 @@
-# Processo Seletivo Full Stack Pleno
+# Processo Seletivo Full Stack Pleno/Senior
 
 - Desenvolver uma WEB API com tema livre
 - Desenvolver projeto/camada de apresentação (Web) consumindo a WEB API
