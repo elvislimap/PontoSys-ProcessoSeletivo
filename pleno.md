@@ -1,7 +1,7 @@
 # Processo Seletivo Full Stack Pleno
 
-- Desenvolver uma WEB API com tema livre (Obrigatório)
-- Desenvolver projeto/camada de apresentação (Web) consumindo a WEB API (Desejável)
+- Desenvolver uma WEB API com tema livre
+- Desenvolver projeto/camada de apresentação (Web) consumindo a WEB API
 
 Requisitos não funcionais
 --------------------------
