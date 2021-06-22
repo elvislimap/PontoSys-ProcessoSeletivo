@@ -1,6 +1,6 @@
 # Processo Seletivo Full Stack Junior - Ponto.Sys Sistemas
 
-- Desenvolver projeto Web/API
+- Desenvolver projeto MVC ou API RESTful com os seguintes requisitos:
 
 Requisitos funcionais
 ----------------------
@@ -12,7 +12,7 @@ Requisitos funcionais
 
 Requisitos não funcionais
 --------------------------
-- Desenvolver Web API utilizando .NET Core
+- Desenvolver Back-end em C# com .NET Core
 - Utilizar SOLID (Desejável)
 - Front-end em Razor, Ionic ou Flutter
 - Subir código fonte no git
